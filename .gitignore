@@ -1,0 +1,7 @@
+target/
+output/
+.bsp/
+.metals/
+.bloop/
+project/metals.sbt
+*.class
