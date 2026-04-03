@@ -1,13 +1,5 @@
 product_id,name,category,price
-1,Laptop,Electronics,999.99
-2,Phone,Electronics,499.99
-3,Headphones,Electronics,79.99
-4,T-Shirt,Clothing,19.99
-5,Jeans,Clothing,49.99
-6,Sneakers,Clothing,89.99
-7,Desk,Furniture,199.99
-8,Chair,Furniture,149.99
-9,Notebook,Stationery,4.99
-10,Pen Set,Stationery,9.99
-11,Backpack,Accessories,59.99
-12,Watch,Accessories,199.99
+BTC,Bitcoin,Crypto,1.0
+ETH,Ethereum,Crypto,1.0
+SOL,Solana,Crypto,1.0
+DOGE,Dogecoin,Crypto,1.0
